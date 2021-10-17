@@ -71,4 +71,10 @@ header {
     border-radius: 15px;
     text-shadow: none;
   }
+
+  img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+  }
   
